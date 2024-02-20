@@ -1,10 +1,11 @@
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=M-Sviridov&theme=nord)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=M-Sviridov&theme=catppuccin-frappe&border_radius=10)](https://git.io/streak-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Sviridov&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-sviridov&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Sviridov&layout=compact&theme=&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 
 
